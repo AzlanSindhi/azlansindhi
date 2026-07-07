@@ -38,5 +38,5 @@ I'm passionate about solving real-world problems using data and software develop
 ### Connect with me
 
 - LinkedIn
-- Portfolio
+- Portfolio : https://portfolio-three-tawny-58.vercel.app/
 - Email

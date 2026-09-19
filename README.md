@@ -38,6 +38,7 @@ I'm passionate about solving real-world problems using data and software develop
 ### Connect with me
 
 - LinkedIn : https://www.linkedin.com/in/azlan-sindhi-/
-- Portfolio : https://portfolio-three-tawny-58.vercel.app/
-- Email : azlaank1284@gmail.com
+- Portfolio : https://portfolio-azlansindhis-projects.vercel.app/
+- Email : azlans1284@gmail.com
+
 
